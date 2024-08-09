@@ -1,0 +1,32 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper
+{
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a.button.badge
+{
+    background-color: white;
+    text-decoration: none;
+    padding: 2px 13px;
+    border-radius: 20px;
+}
+
+a.button.badge:hover
+{
+    background-color: rgb(134, 134, 134);
+}
+
+a.button.badge>span.button-text
+{
+    color: black;
+}

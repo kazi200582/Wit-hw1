@@ -1,0 +1,91 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+#wrapper
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 7px;
+    padding: 5px 5px;
+    margin-left: 640px;
+    margin-right: 605px;
+    background-color: black;
+    padding: 20px 20px;
+}
+
+#title
+{
+    margin-bottom: 10px;
+}
+
+#description
+{
+    color: grey;
+}
+
+#Big-title
+{
+    color: white;
+    margin-bottom: 1px;
+    margin-top: 0;
+}
+
+
+#type-name
+{
+    color: white;
+    margin-bottom: 7px;
+}
+
+#name
+{
+    border-radius: 7px;
+    padding: 7px 7px;
+    padding-right: 70px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    background-color: black;
+}
+
+#select-box
+{
+    color: white;
+}
+
+#Cancel
+{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+
+#framework
+{
+    border-radius: 7px;
+    padding: 7px 5px;
+    padding-right: 143px;
+    margin-top: 1px;
+    background-color: black;
+    color: white;
+}
+
+#Deploy
+{
+    margin-left: 87px;
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+
+#button
+{
+    margin-top: 10px;
+}
